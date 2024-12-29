@@ -11,7 +11,7 @@ The Webscraping Project is a series of Python tools designed to scrape  tennis m
 
 
 ## Requirements
->- Python 3.11+
+• Python 3.11+
 • Dependencies:
   • requests
   • beautifulsoup4
