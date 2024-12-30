@@ -4,7 +4,7 @@ A series of scrapers that retrieve professional and college tennis data with mat
 Author: Clajerson Gimena
 
 ## Overview
-The Webscraping Project is a series of Python tools designed to scrape tennis match data from the proffessional and collegiate level.
+The Webscraping Project is a series of Python tools designed to scrape tennis match data from the professional and collegiate level.
 
 ## tennislive.net
 ### Features
